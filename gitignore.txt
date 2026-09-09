@@ -1,1 +1,5 @@
-text
+gitignore U 
+deanv/
+venv/
+
+
